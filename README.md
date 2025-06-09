@@ -17,9 +17,6 @@
 ---
 
 ## Demo
-
-*Add your app’s hosted URL here if available*
-
 ---
 
 ## Getting Started
@@ -38,13 +35,25 @@ git clone https://github.com/mutiaracitrasari/chatbot-interview.git
 cd chatbot-interview
 ````
 
-2. Install `streamlit_js_eval` (required for JavaScript evaluation in Streamlit):
+2. Install `openai`:
+
+```bash
+pip install openai
+```
+
+3. Install `streamlit`:
+
+```bash
+pip install streamlit
+```
+
+4. Install `streamlit_js_eval` (required for JavaScript evaluation in Streamlit):
 
 ```bash
 pip install streamlit_js_eval
 ```
 
-3. Set your OpenAI API key as a Streamlit secret:
+5. Set your OpenAI API key as a Streamlit secret:
 
 Create a `.streamlit/secrets.toml` file in the project root with the following content:
 
@@ -102,7 +111,4 @@ streamlit run app.py
 
 ---
 
-**Enjoy your AI-powered interview simulation!** 🚀
-
-```
 
