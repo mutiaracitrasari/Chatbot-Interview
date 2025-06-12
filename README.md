@@ -16,9 +16,6 @@
 
 ---
 
-## Demo
----
-
 ## Getting Started
 
 ### Prerequisites
