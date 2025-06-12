@@ -1,6 +1,6 @@
 # Chatbot Interview - Streamlit Application
 
-💬 **Chatbot Interview** is an interactive web app built with Streamlit that simulates an interview experience for candidates applying for various data-related positions. The chatbot is powered by OpenAI's GPT-4o model and conducts a structured interview based on user-provided personal information, skills, and job preferences.
+**Chatbot Interview** is an interactive web app built with Streamlit that simulates an interview experience for candidates applying for various data-related positions. The chatbot is powered by OpenAI's GPT-4o model and conducts a structured interview based on user-provided personal information, skills, and job preferences.
 
 ---
 
